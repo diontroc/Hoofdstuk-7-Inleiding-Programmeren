@@ -1,0 +1,14 @@
+int rekensom = 17 + (34 / 4);
+
+println(rekensom);
+
+int rekensom2 = 24 + ((27 / 9)) * 12;
+
+println(rekensom2);
+
+float RekenSom = 5.7;
+float waarde1 = 2.85;
+float waarde2 = 3;
+if(RekenSom == ((waarde1 + waarde2)- 0.15)){
+  println("Deze rekensom is accuraat!");
+}
